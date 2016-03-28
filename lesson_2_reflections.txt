@@ -1,0 +1,5 @@
+When I initialize the repo Git creates nev dit called .git and stores here
+needed data. I need it to do cause for proper work git should use this data.
+The staging area is different from the working dir because it's abstract place and staging area
+can contait all or several files from the working dit. Staging area is a part of the repository. 
+If offers opportunity to choose what files I want to track and those i don't.
