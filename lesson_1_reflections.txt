@@ -1,0 +1,13 @@
+I am able to see excact lines where changes were happen.
+It's vere handy to find the changes.
+I could spend less time on searching those mistakes or changes.
+Beacuase automatticaly committs won't understand the logical meaning of commits and 
+then it'll be harded to understand the commintts tree.
+Because coder's problems are solved not with
+the power of one file but with using of many.
+The first thing I'm gonna do is to see the log of the commits. The i'll find the rigth one commit,
+and then i'll compare that one with the previous one.
+If I would code without version control I would afraid of big mistakes that could braak 
+all my front-end project. And now I am confident in the future because I can fallback to 
+previous version of project evere time I need.
+I want to try using git for coding my personal website.
