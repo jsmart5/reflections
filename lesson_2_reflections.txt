@@ -3,3 +3,13 @@ needed data. I need it to do cause for proper work git should use this data.
 The staging area is different from the working dir because it's abstract place and staging area
 can contait all or several files from the working dit. Staging area is a part of the repository. 
 If offers opportunity to choose what files I want to track and those i don't.
+I can use staging area to see the differences between files 
+in staging area and recent commit.
+They would help me if I want to implement different design of new feature 
+but I'm not sure if it will be in production. So if I would wanna see on it without 
+breaking me previous code I can use branches.
+
+How do the diagrams help you visualize the branch structure?
+
+I see parents of the commits. Withouf the diagrams it would be harder to 
+understand the "detached head" message.
