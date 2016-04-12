@@ -8,8 +8,10 @@ in staging area and recent commit.
 They would help me if I want to implement different design of new feature 
 but I'm not sure if it will be in production. So if I would wanna see on it without 
 breaking me previous code I can use branches.
-
-How do the diagrams help you visualize the branch structure?
-
 I see parents of the commits. Withouf the diagrams it would be harder to 
 understand the "detached head" message.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When merging 2 branches together I will have one branch with all the 
+changes and coding in one place. It helped me to understand the "detached HEAD" message.
