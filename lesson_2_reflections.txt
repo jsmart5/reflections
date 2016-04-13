@@ -15,3 +15,11 @@ What is the result of merging two branches together? Why do we represent it in t
 
 When merging 2 branches together I will have one branch with all the 
 changes and coding in one place. It helped me to understand the "detached HEAD" message.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Positive part of automatic merging is that you don't have to 
+waste your time on smushing files. The positive of manual merging is that
+you have to decide hot to treat different changes in the code and disscuss
+it with your collaborators.
