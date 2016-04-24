@@ -16,3 +16,7 @@ I would use fork function when I find interest repo on github and wanna make cha
 Reflect: Local copies of remote branches
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I can make diff between this two variants of code without pulling of pushing with github.
+
+Reflect: Collaboration using Git and GitHub
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Oh man. It would be sick thing.
