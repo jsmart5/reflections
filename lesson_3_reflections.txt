@@ -20,3 +20,9 @@ I can make diff between this two variants of code without pulling of pushing wit
 Reflect: Collaboration using Git and GitHub
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Oh man. It would be sick thing.
+
+Reflect: When to use a separate branch
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in a separate branch when I'm not sure if this feature will work out
+of I would want to continue working on a master branch while working on the new feature.
+As Сaroline pointed, these situations depend on the number of collaborators.
